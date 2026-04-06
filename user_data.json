@@ -1,0 +1,33 @@
+{
+  "users": {
+    "5464983623": {
+      "username": "mmo2026s",
+      "first_name": "Tester",
+      "last_name": "nguyễn",
+      "last_used": "2026-03-29 15:04:53.964915",
+      "last_active": "2026-03-29 15:21:35.273178",
+      "total_downloads": 6
+    },
+    "7332801012": {
+      "username": "PeiWeiKang",
+      "first_name": "Trùm Sàn Cam",
+      "last_name": null,
+      "last_used": "2026-03-29 14:59:05.937808",
+      "last_active": "2026-03-29 15:21:51.646130"
+    },
+    "5797831390": {
+      "username": "namlongneem",
+      "first_name": "龙权",
+      "last_name": "到期的",
+      "last_used": "2026-03-29 15:05:26.893791",
+      "last_active": "2026-03-29 15:20:45.094975",
+      "total_downloads": 95
+    }
+  },
+  "total_users": 3,
+  "total_requests": 36,
+  "download_stats": {
+    "2026-03-29": 47
+  },
+  "total_downloads": 25
+}
