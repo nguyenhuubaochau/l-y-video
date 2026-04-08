@@ -747,7 +747,7 @@ class TikTokDownloaderBot:
         application.run_polling(allowed_updates=Update.ALL_TYPES)
 
 if __name__ == "__main__":
-    BOT_TOKEN = "8785070280:AAFVOnED_YtifSAoOWPS6Naesk44sKEOX2E"  # Thay bằng token của bạn
+    BOT_TOKEN = "8259575902:AAHCSNrRYz71oaIqrYZbbm1TSX05huFkiD0"  # Thay bằng token của bạn
     ADMIN_ID = 5464983623  # Thay bằng ID Telegram của bạn
     
     if not BOT_TOKEN or BOT_TOKEN == "YOUR_BOT_TOKEN_HERE":
