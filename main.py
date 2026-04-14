@@ -26,7 +26,8 @@ class TikTokDownloaderBot:
         self.download_dir.mkdir(exist_ok=True)
         
         # File lưu danh sách users
-        self.users_file = Path("users.json")
+       self.users_file = Path("/app/data/users.json")
+
         self.users: Set[int] = self.load_users()
         
         # Lưu trữ tạm thông tin người dùng
